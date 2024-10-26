@@ -1,1 +1,2 @@
-# LinkedIn-posts-
+# LinkedIn-posts-This project is a web scraper built with Python and Selenium to extract information about job applicants from LinkedIn. It automates the process of gathering data such as name, email, phone number, current title, current company, LinkedIn profile URL, and resume link from job applicants' profiles.Approach to the problem:
+To efficiently collect and cluster Linkedin profiles data, this scrip helps automatically scrape the web data of people profiles on Linkedin based on a specific search query and store the output in a CSV file
